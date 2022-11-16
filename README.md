@@ -2,9 +2,9 @@
 
 A open source hackable handheld for DIY.
 
-## Hackheld Joystick
+## Hackheld Altair
 
-![Hackheld Joystick](https://raw.githubusercontent.com/jeffplays2005/Hackheld/main/Hackheld_Joystick_Images/Front_with_components.png)
+![Hackheld Altair](https://raw.githubusercontent.com/jeffplays2005/Hackheld/main/Hackheld_Altair_Images/Front_with_components.png)
 
 **DISCLAIMER:** I haven't yet built a real one of these so please be aware that this project may not work! Do this at your own risk. I will update this repo when I have built mine. There is also no 3d print case although I assume you can design one yourself. The screw holes are 2.053mm thick in diameter. It is also my first PCB project so if anything goes wrong, please help!
 
@@ -14,9 +14,9 @@ It can run the [ESP8266 Deauther](https://github.com/spacehuhntech/esp8266_deaut
 
 ### DIY this project
 
-[Download Gerbers For Single Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Joystick_PCB/Hackheld_Joystick_Gerber_v2.0.1_single_board.zip)
+[Download Gerbers For Single Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.1_single_board.zip)
 
-[Download Gerbers For Double Board Single Sheet - you can print two boards on a single sheet!](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Joystick_PCB/Hackheld_Joystick_Gerber_v2.0.1_double_board.zip)
+[Download Gerbers For Double Board Single Sheet - you can print two boards on a single sheet!](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.1_double_board.zip)
 
 I highly recommend buying the exact same parts as the section down below as many manufacturers use different 5 directional switches and I've designed the routes according to the one thats listed.
 
