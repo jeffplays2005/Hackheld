@@ -16,7 +16,7 @@ It can run the [ESP8266 Deauther](https://github.com/spacehuhntech/esp8266_deaut
 
 [Download Gerbers For Single Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.1_single_board.zip)
 
-[Download Gerbers For Double Board Single Sheet - you can print two boards on a single sheet!](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.1_double_board.zip)
+Note: removed double board as panelisation should be done instead. 
 
 I highly recommend buying the exact same parts as the section down below as many manufacturers use different 5 directional switches and I've designed the routes according to the one thats listed.
 
