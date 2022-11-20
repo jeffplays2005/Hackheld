@@ -16,7 +16,7 @@ It can run the [ESP8266 Deauther](https://github.com/spacehuhntech/esp8266_deaut
 
 [Download Gerbers For Single Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.1_single_board.zip)
 
-Note: removed double board as panelisation should be done instead. 
+Note: removed double board as panelisation should be done instead. You can panelise the PCBs easily with EasyEDA or other alternatives. For a 100mm x 100mm PCB, you can fit 2 in a row and no more in a column. The dimensions of a single Hackheld in this project is 43.5mm x 53.5mm. 
 
 I highly recommend buying the exact same parts as the section down below as many manufacturers use different 5 directional switches and I've designed the routes according to the one thats listed.
 
@@ -39,11 +39,11 @@ WS2812B 5050 RGB LED: https://www.aliexpress.com/item/1005002653014067.html
 Simple soldering and wire cutters may be needed to solder on + make sure the parts fit(the pins might be too long).
 
 ### Credits
-Original Hackheld by SpaceHuhn: https://github.com/SpacehuhnTech/Hackheld *Inspiration + original creator!*
+Original Hackheld by SpaceHuhn: https://github.com/SpacehuhnTech/Hackheld *Inspiration + original creator! Thx Stefan.*
 
-DSTikes hackheld schematics: https://github.com/lspoplove/Deauther-Project *Found it difficult checking the RGB light traces and looked in the schematics*
+DSTike hackheld schematics: https://github.com/lspoplove/Deauther-Project *Found it difficult finding the WS2812B traces from a gerber viewer and used the schematics to help*
 
-ItsKarilito: https://github.com/ItsKarlito/Hackheld *Redesigned the pcb and fixed some errors, this helped me trace where the wires go*
+ItsKarilito: https://github.com/ItsKarlito/Hackheld *Redesigned the PCB and fixed some errors on the original Hackheld*
 
 ### License
 
