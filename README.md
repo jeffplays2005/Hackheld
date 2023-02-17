@@ -4,7 +4,7 @@ A open source hackable handheld for DIY.
 
 ## Hackheld Altair
 
-![Hackheld Altair](https://raw.githubusercontent.com/jeffplays2005/Hackheld/main/Hackheld_Altair_Images/Front_with_components.png)
+![Hackheld Altair Front](https://raw.githubusercontent.com/jeffplays2005/Hackheld/main/Hackheld_Altair_Images/Front.png)
 
 **UPDATE:** No need to worry on this project failing to build as I have received the parts and have tested everything and can verify the PCBs are working fine. Although due to the updated removal of solder pads, I will have to reorder the PCBs and see if the manufacturers are able to create it without any problems. I will update this repo when finished.
 **DISCLAIMER:** There is no 3d print case designed for this project yet. If you'd like to contribute, please feel free to!
@@ -25,6 +25,8 @@ Also the only method I could figure out to remove those holes in the solder pads
 I highly recommend buying the exact same parts as the section down below as many manufacturers use different 5 directional switches and I've designed the routes according to the one thats listed.
 
 I recommend JLCPCB as they have fast shipping, cheap options and have several discounts. PCBWay is also a good alternative.
+
+Please star this repository if you appreciated my work and would like to help me out!! Thanks in advance. 
 
 ### Parts
 
