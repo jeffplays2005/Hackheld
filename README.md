@@ -6,7 +6,8 @@ A open source hackable handheld for DIY.
 
 ![Hackheld Altair](https://raw.githubusercontent.com/jeffplays2005/Hackheld/main/Hackheld_Altair_Images/Front_with_components.png)
 
-**DISCLAIMER:** I haven't yet built a real one of these so please be aware that this project may not work! Do this at your own risk. I will update this repo when I have built mine. There is also no 3d print case although I assume you can design one yourself. The screw holes are 2.053mm thick in diameter. It is also my first PCB project so if anything goes wrong, please help!
+**UPDATE:** No need to worry on this project failing to build as I have received the parts and have tested everything and can verify the PCBs are working fine. Although due to the updated removal of solder pads, I will have to reorder the PCBs and see if the manufacturers are able to create it without any problems. I will update this repo when finished.
+**DISCLAIMER:** There is no 3d print case designed for this project yet. If you'd like to contribute, please feel free to!
 
 This is a redesign of SpaceHuhn's Hackheld Vega but with a 5 direction switch and a smaller board.
 
@@ -14,9 +15,12 @@ It can run the [ESP8266 Deauther](https://github.com/spacehuhntech/esp8266_deaut
 
 ### DIY this project
 
-[Download Gerbers For Single Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.1_single_board.zip)
+[Download Gerbers For Single Rectangular Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.2_rectangular_board.zip)
+[Download Gerbers For Single Rounded Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.2_rounded_board.zip)
 
-Note: removed double board as panelisation should be done instead. You can panelise the PCBs easily with EasyEDA or other alternatives. For a 100mm x 100mm PCB, you can fit 2 in a row and no more in a column. The dimensions of a single Hackheld in this project is 43.5mm x 53.5mm. 
+Note: removed double board as panelisation should be done instead. You can panelise the PCBs easily with EasyEDA or other alternatives. For a 100mm x 100mm PCB, you can fit 2 in a row and no more in a column. The dimensions of a single Hackheld in this project is 43.5mm x 53.5mm.
+
+Also the only method I could figure out to remove those holes in the solder pads were making them microscopical, meaning that some pcb manufacturers may tell you that they have skipped or have a problem with this.
 
 I highly recommend buying the exact same parts as the section down below as many manufacturers use different 5 directional switches and I've designed the routes according to the one thats listed.
 
@@ -39,9 +43,9 @@ WS2812B 5050 RGB LED: https://www.aliexpress.com/item/1005002653014067.html
 Simple soldering and wire cutters may be needed to solder on + make sure the parts fit(the pins might be too long).
 
 ### Credits
-Original Hackheld by SpaceHuhn: https://github.com/SpacehuhnTech/Hackheld *Inspiration + original creator! Thx Stefan.*
+Original Hackheld by SpaceHuhn: https://github.com/SpacehuhnTech/Hackheld *Inspiration + original creator(of the firmware too)! Thx Stefan.*
 
-DSTike hackheld schematics: https://github.com/lspoplove/Deauther-Project *Found it difficult finding the WS2812B traces from a gerber viewer and used the schematics to help*
+DSTike hackheld schematics: https://github.com/lspoplove/Deauther-Project *Used schematics to view more detailed wiring*
 
 ItsKarilito: https://github.com/ItsKarlito/Hackheld *Redesigned the PCB and fixed some errors on the original Hackheld*
 
