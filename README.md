@@ -15,8 +15,7 @@ It can run the [ESP8266 Deauther](https://github.com/spacehuhntech/esp8266_deaut
 
 ### DIY this project
 
-[Download Gerbers For Single Rectangular Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.2_rectangular_board.zip)
-[Download Gerbers For Single Rounded Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/Hackheld_Altair_Gerber_v2.0.2_rounded_board.zip)
+[Download Gerbers For Single Rectangular Board](https://github.com/jeffplays2005/Hackheld/raw/main/Hackheld_Altair_PCB/2.0.3/Hackheld_Altair_Gerber_v2.0.3.zip)
 
 Note: removed double board as panelisation should be done instead. You can panelise the PCBs easily with EasyEDA or other alternatives. For a 100mm x 100mm PCB, you can fit 2 in a row and no more in a column. The dimensions of a single Hackheld in this project is 43.5mm x 53.5mm.
 
@@ -26,7 +25,9 @@ I highly recommend buying the exact same parts as the section down below as many
 
 I recommend JLCPCB as they have fast shipping, cheap options and have several discounts. PCBWay is also a good alternative.
 
-Please star this repository if you appreciated my work and would like to help me out!! Thanks in advance. 
+Please star this repository if you appreciated my work and would like to help me out!! Thanks in advance.
+
+To flash the esp8266 board, please visit https://github.com/SpacehuhnTech/Hackheld
 
 ### Parts
 
