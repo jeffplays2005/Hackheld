@@ -4,7 +4,7 @@ A open source hackable handheld for DIY.
 
 ## Hackheld Altair
 
-![Hackheld Altair Front](https://raw.githubusercontent.com/jeffplays2005/Hackheld/main/Hackheld_Altair_Images/Front.png)
+<img width="500" src="Hackheld_Altair_Images/Front.png"/> <img width="500" src="Hackheld_Altair_Images/Back.png"/>
 
 > [!NOTE]
 > This project is still in development and is not yet finished. Please check back later for updates.
